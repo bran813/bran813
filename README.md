@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Brandon Zamorano!
+## 👋 Hi, I'm Brandon!
 
 🚀 **Software Developer | Physicist | Data Scientist**  
 📍 Based in Mexico | 🌎 Open to Remote Work  
